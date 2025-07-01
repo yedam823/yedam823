@@ -1,4 +1,4 @@
-## KIM YE DAM
+![image](https://github.com/user-attachments/assets/1565dee6-5616-4d80-ab78-b4e770089cd6)## KIM YE DAM
 
 <!--
 **yedam823/yedam823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://YEDAM's-Github.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+majoring+Embedded+systems;Daedeok+Software+Meister+High+School+11st.)](https://git.io/typing-svg)
