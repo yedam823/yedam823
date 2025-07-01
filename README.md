@@ -1,4 +1,4 @@
-## Hi there 👋
+## KIM YE DAM
 
 <!--
 **yedam823/yedam823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+majoring+Embedded+systems;Daedeok+Software+Meister+High+School+11st.)](https://git.io/typing-svg)
