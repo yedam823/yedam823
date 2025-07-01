@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1565dee6-5616-4d80-ab78-b4e770089cd6)## KIM YE DAM
+## KIM YE DAM
 
 <!--
 **yedam823/yedam823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
