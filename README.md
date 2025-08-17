@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+majoring+Embedded+systems;Daedeok+Software+Meister+High+School+11st.)](https://git.io/typing-svg)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
