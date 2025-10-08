@@ -3,7 +3,7 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> Intro </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> "항상 최고점을 목표로 하자"</li><li>임베디드 분야를 공부하고 있는 김예담 입니다.</li><li>높은 목표를 향해 끊임없이 발전하고 성장할 수 있는 끈기를 지니고 있습니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> "항상 최고점을 목표로 하자"</li><li>임베디드 분야를 공부중이고, 더 많은 것을 배워나가고 싶습니다.</div> 
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
